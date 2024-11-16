@@ -24,7 +24,7 @@ rpart.plot(pre_basura, type=2, extra=0, under = TRUE, fallen.leaves = TRUE,
 
 Se genero lo siguiente: 
 
-![alt text](Pre_basura.png)
+![alt text](pre_ba.png)
 
 donde: 
 
@@ -64,7 +64,7 @@ rpart.plot(pre_sanitario, type=2, extra=0, under=TRUE, fallen.leaves=TRUE,
 
 Se genero lo siguiente: 
 
-![alt text](Pre_Sanitario.png)
+![alt text](pre_san.png)
 
 donde: 
 
